@@ -9,6 +9,7 @@ public class MiddleOfLinkList {
         node.addLast(40);
         node.addLast(50);
 
+
         System.out.println(middleNode(node.getHead()).val);
     }
 
